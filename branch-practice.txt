@@ -1,1 +1,1 @@
-I am practicing Git branched.\nChatgpt is helping out too
+I am practicing Git branches
