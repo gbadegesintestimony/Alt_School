@@ -1,3 +1,0 @@
-This is my week 3 Git practice.
-i am learning the Git workflow.
-Working Directory -> staging -> commit -> github.
